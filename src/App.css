@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.hero-avatar-container {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #6e07f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-icon-container {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background-color: #36e6a2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
