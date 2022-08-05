@@ -1,3 +1,4 @@
+import Companies from "./Companies/Companies";
 import Hero from "./Hero/Hero";
 import Info from "./Info/Info";
 import Projects from "./Projects/Projects";
@@ -12,6 +13,7 @@ function Content() {
       <Skills />
       <Works />
       <Projects />
+      <Companies />
     </main>
   );
 }

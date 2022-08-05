@@ -23,3 +23,8 @@
   justify-content: center;
   align-items: center;
 }
+
+.company-logo-container > img {
+  height: 100px;
+  width: 350px;
+}
