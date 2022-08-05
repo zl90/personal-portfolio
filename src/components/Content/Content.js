@@ -1,5 +1,6 @@
 import Hero from "./Hero/Hero";
 import Info from "./Info/Info";
+import Projects from "./Projects/Projects";
 import Skills from "./Skills/Skills";
 
 function Content() {
@@ -8,6 +9,7 @@ function Content() {
       <Hero />
       <Info />
       <Skills />
+      <Projects />
     </main>
   );
 }
