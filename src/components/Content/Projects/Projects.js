@@ -12,6 +12,7 @@ function Projects() {
       <h2 className="projects-container-title">Personal Projects</h2>
       <div className="project-card-grid">
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
           <h3 className="project-card-title">CryptoNewZ API</h3>
           <p className="project-card-description">
             A REST API built with Node.js and MongoDB. CryptoNewZ pulls
@@ -70,6 +71,8 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
+
           <h3 className="project-card-title">Members Only</h3>
           <p className="project-card-description">
             Only registered members can post! This is a CRUD app built on
@@ -134,6 +137,8 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
+
           <h3 className="project-card-title">PC Part Picker</h3>
           <p className="project-card-description">
             A CRUD PC hardware catalog built on Express.js and MongoDB, hosted
@@ -190,6 +195,8 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
+
           <h3 className="project-card-title">Shopping Cart Frontend</h3>
           <p className="project-card-description">
             A shopping cart where users can add items and adjust their order
@@ -238,6 +245,8 @@ function Projects() {
         </div>
 
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
+
           <h3 className="project-card-title">Simpsons Memory Game</h3>
           <p className="project-card-description">
             A memory game where the user must avoid clicking the same card
@@ -279,9 +288,11 @@ function Projects() {
         </div>
 
         <div className="project-card-container">
+          <img className="project-card-image" alt="Project image" src="#" />
+
           <h3 className="project-card-title">Weather App</h3>
           <p className="project-card-description">
-            Weather tracking app built with vanilla Javascript. Search local
+            A weather tracking app built with vanilla Javascript. Search local
             weather conditions in this user-friendly, mobile-responsive webapp.
             Weather data is pulled from the{" "}
             <a href="https://openweathermap.org/api" target="blank">
