@@ -8,10 +8,16 @@
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-color: #6e07f3;
+  /* background-color: #6e07f3; */
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.hero-avatar-container img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
 
 .skills-icon-container {
@@ -24,7 +30,16 @@
   align-items: center;
 }
 
-.company-logo-container > img {
+.company-logo-container img {
   height: 100px;
   width: 350px;
+}
+
+.header-logo {
+  height: 100px;
+  width: 100px;
+}
+
+.skills-icon-container > * {
+  font-size: 2.5rem;
 }

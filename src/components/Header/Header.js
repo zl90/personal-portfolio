@@ -5,7 +5,6 @@ function Header() {
   return (
     <header className="header-container">
       <Logo />
-      <HelloButton />
     </header>
   );
 }
