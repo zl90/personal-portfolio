@@ -1,7 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700&display=swap");
+@import url(//db.onlinewebfonts.com/c/23c0fcab84d99da0de762de7e220a6e1?family=Europa);
+@font-face {
+  font-family: "Europa";
+  src: url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.eot");
+  src: url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/23c0fcab84d99da0de762de7e220a6e1.svg#Europa")
+      format("svg");
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Exo 2", sans-serif;
+}
+
+p,
+cite,
+li,
+button {
+  font-family: "Europa", sans-serif;
+}
+
+blockquote {
+  font-family: "Europa", sans-serif;
+  font-style: italic;
 }
 
 .hero-avatar-container {
