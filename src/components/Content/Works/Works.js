@@ -24,7 +24,11 @@ function Works() {
 
       <div className="project-card-grid">
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/hiveiq-promo.png")}
+          />
           <h3 className="project-card-title">HiveiQ</h3>
           <p className="project-card-description">
             Built with{" "}
@@ -59,7 +63,11 @@ function Works() {
           </div>
         </div>
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/australianhoneybee-promo.png")}
+          />
           <h3 className="project-card-title">Australian Honeybee</h3>
           <p className="project-card-description">
             Built with{" "}
@@ -90,7 +98,11 @@ function Works() {
         </div>
 
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/primetuning-promo.png")}
+          />
           <h3 className="project-card-title">PrimeTuning</h3>
           <p className="project-card-description">
             Built with{" "}
@@ -121,7 +133,11 @@ function Works() {
         </div>
 
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/scholastic-promo.png")}
+          />
           <h3 className="project-card-title">Scholastic Kids: Home Base</h3>
           <p className="project-card-description">
             Scholastic Home Base is a safe, free, 3D interactive world that
@@ -169,7 +185,11 @@ function Works() {
           </div>
         </div>
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/gunscape-promo.png")}
+          />
           <h3 className="project-card-title">GunScape: Seismic</h3>
           <p className="project-card-description">
             Create maps, share them with your friends and blast your way through

@@ -30,8 +30,13 @@
   align-items: center;
 }
 
+.project-card-image {
+  width: 250px;
+  height: 300px;
+}
+
 .company-logo-container img {
-  height: 100px;
+  height: auto;
   width: 350px;
 }
 

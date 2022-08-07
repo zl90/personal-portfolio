@@ -12,7 +12,11 @@ function Projects() {
       <h2 className="projects-container-title">Personal Projects</h2>
       <div className="project-card-grid">
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/cryptonewz-promo.png")}
+          />
           <h3 className="project-card-title">CryptoNewZ API</h3>
           <p className="project-card-description">
             A REST API built with Node.js and MongoDB. CryptoNewZ pulls
@@ -71,7 +75,11 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/members-only-promo.png")}
+          />
 
           <h3 className="project-card-title">Members Only</h3>
           <p className="project-card-description">
@@ -137,7 +145,11 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/pc-part-picker-promo.png")}
+          />
 
           <h3 className="project-card-title">PC Part Picker</h3>
           <p className="project-card-description">
@@ -195,7 +207,11 @@ function Projects() {
           </div>
         </div>
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/shopping-cart-promo.png")}
+          />
 
           <h3 className="project-card-title">Shopping Cart Frontend</h3>
           <p className="project-card-description">
@@ -245,7 +261,11 @@ function Projects() {
         </div>
 
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/simpsons-memory-promo.png")}
+          />
 
           <h3 className="project-card-title">Simpsons Memory Game</h3>
           <p className="project-card-description">
@@ -288,7 +308,11 @@ function Projects() {
         </div>
 
         <div className="project-card-container">
-          <img className="project-card-image" alt="Project image" src="#" />
+          <img
+            className="project-card-image"
+            alt="Project"
+            src={require("../../../images/weather-app-promo.png")}
+          />
 
           <h3 className="project-card-title">Weather App</h3>
           <p className="project-card-description">
