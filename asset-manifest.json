@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ac9ff2c.css",
+    "main.css": "/static/css/main.3c441351.css",
     "main.js": "/static/js/main.45e6a01b.js",
     "static/media/weather-app-promo.png": "/static/media/weather-app-promo.2613a152f1a599caccb5.png",
     "static/media/gunscape-promo.png": "/static/media/gunscape-promo.04dd090a98acb43c489c.png",
@@ -21,11 +21,11 @@
     "static/media/hiveiq-logo.png": "/static/media/hiveiq-logo.be3805761f2523a4c6fa.png",
     "static/media/primetuning-logo.png": "/static/media/primetuning-logo.f1f00b1e8fae386edf43.png",
     "index.html": "/index.html",
-    "main.1ac9ff2c.css.map": "/static/css/main.1ac9ff2c.css.map",
+    "main.3c441351.css.map": "/static/css/main.3c441351.css.map",
     "main.45e6a01b.js.map": "/static/js/main.45e6a01b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac9ff2c.css",
+    "static/css/main.3c441351.css",
     "static/js/main.45e6a01b.js"
   ]
 }
