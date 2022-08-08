@@ -1,18 +1,29 @@
-import Logo from "../Header/Logo/Logo";
 import { FaReact } from "react-icons/fa";
 
 function Footer() {
   return (
     <footer className="footer-container">
-      <Logo />
+      <LogoWhite />
+      <p className="footer-title">Matthew B.</p>
       <p>Learning, living & leveling-up every day.</p>
-      <p>Website made by me.</p>
-      <p>
-        <a href="https://reactjs.org" target="blank">
-          Built with <FaReact /> React
+      <p className="react-splash">
+        <a className="react-splash" href="https://reactjs.org" target="blank">
+          <FaReact /> Built with React
         </a>
       </p>
     </footer>
+  );
+}
+
+function LogoWhite() {
+  return (
+    <div className="logo-white-container">
+      <img
+        className="logo-white"
+        src={require("../../images/logo-white.png")}
+        alt="Logo, white"
+      />
+    </div>
   );
 }
 
