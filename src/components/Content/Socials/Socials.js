@@ -9,22 +9,28 @@ function Socials() {
         You can find me at the following places:
       </p>
       <div className="socials-array-container">
-        <a href="#">
+        <a href="mailto:mb541@protonmail.com" target="blank">
           <button className="socials-icon">
             <MdEmail />
           </button>
         </a>
-        <a href="#">
+        <a
+          href="https://www.linkedin.com/in/matthew-robert-111182248/"
+          target="blank"
+        >
           <button className="socials-icon">
             <FaLinkedin />
           </button>
         </a>
-        <a href="#">
+        <a href="https://github.com/zl90" target="blank">
           <button className="socials-icon">
             <FaGithub />
           </button>
         </a>
-        <a href="#">
+        <a
+          href="https://www.youtube.com/channel/UCpU1d7f8TFW3A2YtUuiFquQ"
+          target="blank"
+        >
           <button className="socials-icon">
             <FaYoutube />
           </button>
