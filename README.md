@@ -1,5 +1,5 @@
 # Personal Portfolio
 
-Built with React.
+Built with html and css.
 
 ### [View it live](https://mb541.net)
