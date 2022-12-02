@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap");
+
+:root {
+  --text-color: rgb(89, 254, 83);
+  --link-color: rgb(89, 254, 83);
+  --dos-font-family: "perfect_dos_vga_437regular", monospace;
+  --source-font-family: "Source Code Pro", monospace;
+  --main-font-family: var(--source-font-family);
+  --background-color: rgb(14, 17, 6);
+  --main-font-size: 0.8rem;
+  --image-font-size: 0.4rem;
+
+  /* full green */
+  --text-color-fg: rgb(89, 254, 83);
+  --link-color-fg: rgb(89, 254, 83);
+  /* splice */
+  --text-color-splice: rgb(172, 228, 42);
+  --link-color-splice: rgb(49, 193, 1);
+  /* 90s p and g */
+  --text-color-90s: rgb(190, 130, 224);
+  --link-color-90s: rgb(58, 212, 104);
+  /* retro */
+  --text-color-retro: rgb(224, 130, 186);
+  --link-color-retro: rgb(58, 212, 181);
+}
+
+body {
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+}
+
+.avatar-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.title h1 {
+  font-size: var(--main-font-size);
+  font-weight: normal;
+}
+
+.avatar {
+  font-size: var(--image-font-size);
+}
+
+p {
+  padding: 16px;
+}
+
+header {
+  border-top: 1px dashed var(--text-color);
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header,
+main,
+footer {
+  border-bottom: 1px dashed var(--text-color);
+  width: 100%;
+}
+
+main {
+  padding-bottom: 16px;
+}
+
+footer {
+  margin-top: 16px;
+  padding-bottom: 16px;
+  margin-bottom: 160px;
+}
+
+.container {
+  color: var(--text-color);
+  font-family: var(--main-font-family);
+  font-weight: 400;
+  font-size: var(--main-font-size);
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a * {
+  text-overflow: ellipsis;
+}
+
+a:any-link {
+  color: var(--link-color);
+}
+
+a:any-link:hover {
+  color: var(--background-color);
+  background-color: var(--text-color);
+}
+
+ul {
+  list-style-type: "> ";
+}
+
+.menu,
+footer {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.menu ul {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+.menu a:any-link {
+  text-decoration: none;
+}
