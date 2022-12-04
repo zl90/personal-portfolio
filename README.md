@@ -1,5 +1,5 @@
 # Personal Portfolio
 
-Built with html and css.
+Built with Svelte.
 
 ### [View it live](https://mb541.net)

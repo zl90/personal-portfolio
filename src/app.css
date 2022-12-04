@@ -30,7 +30,7 @@ body {
   justify-content: center;
 }
 
-.avatar-container {
+.ascii-container {
   display: flex;
   justify-content: center;
   margin-top: 16px;
@@ -41,7 +41,7 @@ body {
   font-weight: normal;
 }
 
-.avatar {
+.ascii {
   font-size: var(--image-font-size);
 }
 
@@ -118,4 +118,14 @@ footer {
 
 .menu a:any-link {
   text-decoration: none;
+}
+
+.blog-title {
+  font-size: var(--main-font-size);
+  margin-top: 30px;
+  padding-left: 16px;
+}
+
+.blog-date {
+  padding-top: 0;
 }
