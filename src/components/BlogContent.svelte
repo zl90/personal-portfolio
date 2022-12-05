@@ -26,6 +26,7 @@
   <main>
     {#if isLoading}
       <LoadingAnimation style="loadingBar" />
+      <p class="blog-filler" />
     {:else}
       <h1 class="blog-title">{post.data?.title || ""}</h1>
       <p class="blog-date">

@@ -17,7 +17,7 @@
     });
 </script>
 
-<ul>
+<ul class="blog-list">
   {#if isLoading}
     <LoadingAnimation style="loadingBar" />
   {:else}

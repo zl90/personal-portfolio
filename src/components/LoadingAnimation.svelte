@@ -57,6 +57,6 @@
   incrementCount();
 </script>
 
-<div>
+<div class="animation-text-container">
   <p class="animation-text">{animations[style][count]}</p>
 </div>

@@ -10,5 +10,5 @@
   <a target="_blank" rel="noreferrer" href="https://www.youtube.com/@zmweb4828"
     >youtube</a
   >
-  | <a type="application/rss+xml" href="https://mb541.com/feed.xml">rss</a>
+  <!-- | <a type="application/rss+xml" href="https://mb541.com/feed.xml">rss</a> -->
 </footer>
