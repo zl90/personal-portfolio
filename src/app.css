@@ -36,9 +36,8 @@ body {
   margin-top: 16px;
 }
 
-.title h1 {
-  font-size: var(--main-font-size);
-  font-weight: normal;
+.title a {
+  text-decoration: none;
 }
 
 .ascii {
@@ -128,4 +127,8 @@ footer {
 
 .blog-date {
   padding-top: 0;
+}
+
+.animation-text {
+  text-align: center;
 }

@@ -1,5 +1,5 @@
 <header>
-  <div class="title"><h1>mb541~</h1></div>
+  <div class="title"><a href="/">mb541~</a></div>
   <div class="menu">
     <ul>
       <li><a href="/">/</a></li>
