@@ -25,6 +25,21 @@
           href="https://www.zrecruitment.com.au/app/">z-recruitment</a
         > ] Australia's best childcare staffing app
       </li>
+      <li>
+        [ <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://store.steampowered.com/app/342480/Gunscape/">gunscape</a
+        > ] Build your own high-octane, fast-paced shooter maps and share with your
+        friends
+      </li>
+      <li>
+        [ <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://kids.scholastic.com/kid/homebase/">home base</a
+        > ] Scholastic's virtual hub for their flagship gaming products
+      </li>
     </ul>
   </main>
   <Footer />
