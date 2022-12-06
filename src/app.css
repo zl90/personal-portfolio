@@ -50,7 +50,9 @@ body {
 }
 
 p {
-  padding: 16px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 header {
@@ -158,6 +160,37 @@ footer {
 .blog-filler {
   padding-bottom: 160px;
 }
+
+.cv-heading {
+  font-size: var(--main-font-size);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--text-color);
+  width: calc(100% - 32px);
+  margin-top: 30px;
+  padding-inline-start: 0;
+  margin-left: 16px;
+  font-weight: 500;
+}
+
+.cv-sub-heading {
+  font-size: var(--main-font-size);
+  width: calc(100% - 32px);
+  margin-top: 30px;
+  padding-inline-start: 0;
+  margin-left: 16px;
+  font-weight: 500;
+}
+
+.cv-position {
+  font-style: italic;
+}
+
+.cv-ul {
+  width: calc(100% - 48px);
+  padding-inline-start: 32px;
+}
+
+/*************************************/
 
 @media (max-width: 700px) {
   .container {

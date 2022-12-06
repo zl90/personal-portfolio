@@ -30,8 +30,8 @@
           target="_blank"
           rel="noreferrer"
           href="https://store.steampowered.com/app/342480/Gunscape/">gunscape</a
-        > ] Build your own high-octane, fast-paced shooter maps and share with your
-        friends
+        > ] Build your own high-octane, fast-paced shooter maps and share them with
+        your friends
       </li>
       <li>
         [ <a
