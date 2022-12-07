@@ -9,7 +9,7 @@
     <h2 class="cv-heading">>> Education</h2>
     <h3 class="cv-sub-heading">
       [ <a target="_blank" rel="noreferrer" href="https://www.uow.edu.au/"
-        >University of Wollongong</a
+        >UNIVERSITY OF WOLLONGONG</a
       > ]
     </h3>
     <p class="cv-position">

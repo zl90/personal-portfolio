@@ -6,7 +6,7 @@
   --dos-font-family: "perfect_dos_vga_437regular", monospace;
   --source-font-family: "Source Code Pro", monospace;
   --main-font-family: var(--source-font-family);
-  --background-color: rgb(14, 17, 6);
+  --background-color: rgb(10, 10, 10);
   --main-font-size: 0.8rem;
   --image-font-size: 0.4rem;
 
@@ -101,7 +101,7 @@ a:any-link {
 
 a:any-link:hover {
   color: var(--background-color);
-  background-color: var(--text-color);
+  background-color: var(--link-color);
 }
 
 ul {
