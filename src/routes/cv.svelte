@@ -6,6 +6,17 @@
 <div class="container">
   <Header />
   <main class="cv-main">
+    <h2 class="cv-heading">>> Education</h2>
+    <h3 class="cv-sub-heading">
+      [ <a target="_blank" rel="noreferrer" href="https://www.uow.edu.au/"
+        >University of Wollongong</a
+      > ]
+    </h3>
+    <p class="cv-position">
+      <strong>Bachelor of Computer Science</strong>, Mar 2015 - Dec 2017
+    </p>
+    <br />
+
     <h2 class="cv-heading">>> Experience</h2>
     <h3 class="cv-sub-heading">
       [ <a target="_blank" rel="noreferrer" href="https://devika.com/">DEVIKA</a
@@ -25,6 +36,26 @@
       </li>
     </ul>
     <br />
+    <h3 class="cv-sub-heading">
+      [ <a
+        target="_blank"
+        rel="noreferrer"
+        href="https://www.blowfishstudios.com/">BLOWFISH STUDIOS</a
+      > ]
+    </h3>
+    <p class="cv-position">
+      <strong>Software Developer</strong>, Aug 2017 - Feb 2019
+    </p>
+    <ul class="cv-ul">
+      <li>
+        Spearheaded development of the Gunscape "Seismic" expansion pack,
+        increasing 2017 unit sales by over 40%
+      </li>
+      <li>
+        Designed and built internal tool for saving Unity IDE layout states,
+        dramatically reducing developer setup time
+      </li>
+    </ul>
     <br />
 
     <h2 class="cv-heading">>> Technical Skills</h2>

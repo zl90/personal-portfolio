@@ -163,19 +163,20 @@ footer {
 
 .cv-heading {
   font-size: var(--main-font-size);
-  padding-bottom: 0.5rem;
+  padding-bottom: 5px;
   border-bottom: 1px solid var(--text-color);
   width: calc(100% - 32px);
   margin-top: 30px;
   padding-inline-start: 0;
   margin-left: 16px;
   font-weight: 500;
+  margin-bottom: 0;
 }
 
 .cv-sub-heading {
   font-size: var(--main-font-size);
   width: calc(100% - 32px);
-  margin-top: 30px;
+  margin-top: 20px;
   padding-inline-start: 0;
   margin-left: 16px;
   font-weight: 500;
@@ -183,11 +184,14 @@ footer {
 
 .cv-position {
   font-style: italic;
+  margin: 0;
+  padding-top: 0;
 }
 
 .cv-ul {
   width: calc(100% - 48px);
   padding-inline-start: 32px;
+  margin-top: 0;
 }
 
 /*************************************/
