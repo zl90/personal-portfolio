@@ -37,7 +37,7 @@
             )} ]`
           : ``}
       </p>
-      <div class="blog-content-container">{@html post.data?.content || ""}</div>
+      <div id="blog-content-container">{@html post.data?.content || ""}</div>
     {/if}
   </main>
   <Footer />
