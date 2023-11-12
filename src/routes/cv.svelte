@@ -34,6 +34,11 @@
         Implemented new onboarding feature for Z-Recruitment, automating the
         process, reducing client workload by over 90%
       </li>
+      <li>
+        Conducted performance overhaul of Z-Recruitment's API, vastly increasing
+        performance for many endpoints (often achieving over 50% reductions in
+        response times)
+      </li>
     </ul>
     <br />
     <h3 class="cv-sub-heading">
@@ -82,7 +87,7 @@
 
     <h3 class="cv-sub-heading">Cloud:</h3>
     <ul class="cv-ul">
-      <li>AWS</li>
+      <li>AWS Certified Solutions Architect (Associate)</li>
     </ul>
 
     <h3 class="cv-sub-heading">Software:</h3>
