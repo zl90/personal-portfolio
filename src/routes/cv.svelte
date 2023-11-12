@@ -27,17 +27,22 @@
     </p>
     <ul class="cv-ul">
       <li>
-        Re-factored Z-Recruitment's dependency usage, reducing production lambda
-        size by over 40%
+        Orchestrated a timezone compatibility overhaul for the Z-Recruitment
+        mobile app, facilitating seamless scalability to cater to a global
+        userbase
       </li>
       <li>
-        Implemented new onboarding feature for Z-Recruitment, automating the
-        process, reducing client workload by over 90%
+        Revamped the API's dependency structure in Z-Recruitment, leading to a
+        50% reduction in production lambda size
       </li>
       <li>
-        Conducted performance overhaul of Z-Recruitment's API, vastly increasing
-        performance for many endpoints (often achieving over 50% reductions in
-        response times)
+        Automated the entire onboarding process for the Z-Recruitment mobile
+        app, reducing the client's workload by over 90%
+      </li>
+      <li>
+        Executed a comprehensive performance overhaul of Z-Recruitment's API,
+        resulting in substantial enhancements across multiple endpoints,
+        frequently achieving response time reductions exceeding 50%
       </li>
     </ul>
     <br />
