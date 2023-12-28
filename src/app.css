@@ -194,6 +194,12 @@ footer {
   margin-top: 0;
 }
 
+.cv-ul-nh {
+  width: calc(100% - 48px);
+  padding-inline-start: 32px;
+  margin-top: 20px;
+}
+
 iframe {
   padding-left: 16px;
 }
