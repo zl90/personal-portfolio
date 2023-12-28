@@ -17,7 +17,7 @@
             at a time.
         </p>
         <ul>
-            <li>
+            <li style="margin-bottom: 10px">
                 [ <a target="_blank" rel="noreferrer" href="https://www.zrecruitment.com.au/app/">z-recruitment</a> ]
                 Australia's premier childcare staffing app, boasting 5000 daily active
                 users, nationwide operations, and a (rapidly growing) 20% market share. Z-Recruitment
@@ -28,7 +28,7 @@
                 given me a heightened sense of professionalism and a commitment to maintaining
                 exceptional code quality standards in my work.<br />
             </li>
-            <li>
+            <li style="margin-bottom: 10px">
                 [ <a target="_blank" rel="noreferrer" href="https://www.thegoto.app/">the goto app</a> ] GoTo is a
                 groundbreaking platform designed to support international jobseekers in Australia by seamlessly
                 integrating social, travel, and work-related services.<br />My involvement with the GoTo app has been an enriching experience. I have contributed significantly to its
@@ -37,7 +37,7 @@
                 jobseekers. I am proud to be a part of the GoTo team, where our work is making a real difference in the
                 lives of jobseekers, paving the way for a more inclusive and accessible job market in Australia.<br />
             </li>
-            <li>
+            <li style="margin-bottom: 10px">
                 [ <a target="_blank" rel="noreferrer"
                     href="https://store.steampowered.com/app/342480/Gunscape/">gunscape</a> ] Build your own
                 high-octane, fast-paced shooter maps and share them with
