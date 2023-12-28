@@ -94,7 +94,7 @@
       <br />
   
       <h2 class="cv-heading">>> Interests</h2>
-      <ul class="cv-ul">
+      <ul class="cv-ul-nh">
         <li>Compilers (I'm currently taking a course from Cornell University: <a href="https://github.com/zl90/Cornell-CS4120">https://github.com/zl90/Cornell-CS4120</a>)</li>
         <li>C++ (I'm working through Bjarne Stroustrup's "A Tour of C++" book: <a href="https://github.com/zl90/cpp-education">https://github.com/zl90/cpp-education</a>)</li>
       </ul>
