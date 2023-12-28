@@ -15,7 +15,7 @@
     --link-color-retro: rgb(58, 212, 181);
     /* light-yellow */
     --text-color-ly: rgb(253, 255, 240);
-    --link-color-ly: rgb(253, 255, 240);
+    --link-color-ly: rgb(255, 223, 164);
 
     --text-color: var(--text-color-ly);
     --link-color: var(--link-color-ly);
