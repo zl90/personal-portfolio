@@ -26,7 +26,7 @@
                 significantly to the enhanced performance of the mobile app, website, and
                 API. This experience has not only been technically enriching but has also
                 given me a heightened sense of professionalism and a commitment to maintaining
-                exceptional code quality standards in my work.
+                exceptional code quality standards in my work.<br />
             </li>
             <li>
                 [ <a target="_blank" rel="noreferrer" href="https://www.thegoto.app/">the goto app</a> ] GoTo is a
@@ -35,17 +35,17 @@
                 performance, user experience, and backend functionality. This experience has expanded my
                 technical skills and given me a deeper understanding of the challenges faced by international
                 jobseekers. I am proud to be a part of the GoTo team, where our work is making a real difference in the
-                lives of jobseekers, paving the way for a more inclusive and accessible job market in Australia.
+                lives of jobseekers, paving the way for a more inclusive and accessible job market in Australia.<br />
             </li>
             <li>
                 [ <a target="_blank" rel="noreferrer"
                     href="https://store.steampowered.com/app/342480/Gunscape/">gunscape</a> ] Build your own
                 high-octane, fast-paced shooter maps and share them with
-                your friends
+                your friends<br />
             </li>
             <li>
                 [ <a target="_blank" rel="noreferrer" href="https://kids.scholastic.com/kid/homebase/">home base</a> ]
-                Scholastic's virtual hub for their flagship gaming products
+                Scholastic's virtual hub for their flagship gaming products<br />
             </li>
         </ul>
     </main>
