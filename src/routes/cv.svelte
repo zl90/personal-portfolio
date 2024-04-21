@@ -24,22 +24,21 @@
         </p>
         <ul class="cv-ul">
             <li>
-                Executed a comprehensive performance overhaul of Z-Recruitment's API,
+                Executed a comprehensive performance overhaul of <a href="https://www.zstaffing.com.au/">Z-Recruitment</a>'s API,
                 resulting in substantial enhancements across multiple endpoints,
                 frequently achieving response time reductions exceeding 50%
             </li>
             <li>
-                Automated the entire onboarding process for the Z-Recruitment mobile
-                app, reducing the client's workload by over 90%
+                Automated the entire onboarding process for the <a href="https://www.zstaffing.com.au/">Z-Recruitment</a> mobile
+                app, reducing the client's workload by over 90% and adhering to strict regulatory requirements
             </li>
             <li>
-                Revamped the API's dependency structure in Z-Recruitment, leading to a
-                50% reduction in production lambda size
-            </li>
-            <li>
-                Orchestrated a timezone compatibility overhaul for the Z-Recruitment
+                Orchestrated a timezone compatibility overhaul for the <a href="https://www.zstaffing.com.au/">Z-Recruitment</a>
                 mobile app, facilitating seamless scalability to cater to a global
                 userbase
+            </li>
+            <li>
+                <a href="https://devika.com/blog/Bedrock-AI-GoTo">Integrated AWS Bedrock AI</a> with <a href="https://www.thegoto.app/">Goto</a>'s existing UI, dramatically improving user experience for business users and end users.
             </li>
         </ul>
         <br />
@@ -90,8 +89,12 @@
         <ul class="cv-ul-nh">
             <li>Compilers (I'm currently taking a course from Cornell University: <a target="_blank" rel="noreferrer"
                     href="https://github.com/zl90/Cornell-CS4120">https://github.com/zl90/Cornell-CS4120</a>)</li>
-            <li>C++ (I'm working through Bjarne Stroustrup's "A Tour of C++" book: <a target="_blank" rel="noreferrer"
+            <li>Database engineering (I'm currently taking a graduate course from Carnegie Mellon University: <a target="_blank" rel="noreferrer"
+                    href="https://github.com/zl90/CMU-Databases-Course">https://github.com/zl90/CMU-Databases-Course</a>)</li>
+            <li>The C++ language (I recently finished reading Bjarne Stroustrup's "A Tour of C++" book: <a target="_blank" rel="noreferrer"
                     href="https://github.com/zl90/cpp-education">https://github.com/zl90/cpp-education</a>)</li>
+            <li>Algorithms (I recently finished a course from Brown University: <a target="_blank" rel="noreferrer"
+                    href="https://github.com/zl90/cs19">https://github.com/zl90/cs19</a>)</li>
         </ul>
 
     </main>
