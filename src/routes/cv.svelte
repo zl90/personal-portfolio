@@ -24,21 +24,21 @@
         </p>
         <ul class="cv-ul">
             <li>
-                Executed a comprehensive performance overhaul of <a href="https://www.zstaffing.com.au/">Z-Recruitment</a>'s API,
+                Executed a comprehensive performance overhaul of <a href="https://www.zstaffing.com.au/ "target="_blank" rel="noreferrer">Z-Recruitment</a>'s API,
                 resulting in substantial enhancements across multiple endpoints,
                 frequently achieving response time reductions exceeding 50%
             </li>
             <li>
-                Automated the entire onboarding process for the <a href="https://www.zstaffing.com.au/">Z-Recruitment</a> mobile
+                Automated the entire onboarding process for the <a href="https://www.zstaffing.com.au/" "target="_blank" rel="noreferrer">Z-Recruitment</a> mobile
                 app, reducing the client's workload by over 90% and adhering to strict regulatory requirements
             </li>
             <li>
-                Orchestrated a timezone compatibility overhaul for the <a href="https://www.zstaffing.com.au/">Z-Recruitment</a>
+                Orchestrated a timezone compatibility overhaul for the <a href="https://www.zstaffing.com.au/" "target="_blank" rel="noreferrer">Z-Recruitment</a>
                 mobile app, facilitating seamless scalability to cater to a global
                 userbase
             </li>
             <li>
-                <a href="https://devika.com/blog/Bedrock-AI-GoTo">Integrated AWS Bedrock AI</a> with <a href="https://www.thegoto.app/">Goto</a>'s existing UI, dramatically improving user experience for business users and end users.
+                <a href="https://devika.com/blog/Bedrock-AI-GoTo" "target="_blank" rel="noreferrer">Integrated AWS Bedrock AI</a> with <a href="https://www.thegoto.app/" "target="_blank" rel="noreferrer">Goto</a>'s existing UI, dramatically improving user experience for business users and end users.
             </li>
         </ul>
         <br />
