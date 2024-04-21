@@ -16,7 +16,9 @@
       my skills (I'm currently taking a course on Compiler design from Cornell
       University: <a href="https://github.com/zl90/Cornell-CS4120"
         >link to the repo</a
-      >). These are my thoughts, opinions and lessons learned. My goal is to
+      > and a database engineering course from Carnegie Mellon University: <a href="https://github.com/zl90/CMU-Databases-Course"
+        >link to the repo</a
+      >. I've made <a href="https://www.youtube.com/@zmweb4828">Youtube videos</a> highlighting the triumphs/challenges I've experienced while doing these courses). These are my thoughts, opinions and lessons learned. My goal is to
       inspire people to improve their tech skills. Lately I've discovered the
       power of working towards your goal with 1-2 hours per day of deliberate
       practice. With that time investment, you'd be shocked at how much you can
