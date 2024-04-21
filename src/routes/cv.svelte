@@ -24,7 +24,7 @@
         </p>
         <ul class="cv-ul">
             <li>
-                Executed a comprehensive performance overhaul of <a href="https://www.zstaffing.com.au/ target="_blank" rel="noreferrer">Z-Recruitment</a>'s API,
+                Executed a comprehensive performance overhaul of <a href="https://www.zstaffing.com.au/" target="_blank" rel="noreferrer">Z-Recruitment</a>'s API,
                 resulting in substantial enhancements across multiple endpoints,
                 frequently achieving response time reductions exceeding 50%
             </li>
