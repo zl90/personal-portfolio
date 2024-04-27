@@ -4,17 +4,29 @@
 
   let posts = [];
   let isLoading = true;
-  fetch(
-    `https://www.googleapis.com/blogger/v3/blogs/5806378615545131214/posts?key=AIzaSyCqvyetoYKF2BgdW3WmPzpGStM79SKEYQA`,
-    { mode: "cors" }
-  )
-    .then((response) => {
-      return response.json();
-    })
-    .then((data) => {
-      data.items.forEach((item) => (posts = [...posts, item]));
-      isLoading = false;
-    });
+
+  void (async () => {
+    let response = await (
+      await fetch(
+        `https://www.googleapis.com/blogger/v3/blogs/5806378615545131214/posts?key=AIzaSyCqvyetoYKF2BgdW3WmPzpGStM79SKEYQA`,
+        { mode: "cors" },
+      )
+    ).json();
+    response.items.forEach((item) => (posts = [...posts, item]));
+
+    while (response.nextPageToken) {
+      response = await (
+        await fetch(
+          `https://www.googleapis.com/blogger/v3/blogs/5806378615545131214/posts?key=AIzaSyCqvyetoYKF2BgdW3WmPzpGStM79SKEYQA&pageToken=${response.nextPageToken}`,
+          { mode: "cors" },
+        )
+      ).json();
+      response.items.forEach((item) => (posts = [...posts, item]));
+    }
+
+    isLoading = false;
+    posts = posts.sort((a, b) => a.published - b.published);
+  })();
 </script>
 
 <ul class="blog-list">
