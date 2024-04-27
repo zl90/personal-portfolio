@@ -12,7 +12,7 @@
         { mode: "cors" },
       )
     ).json();
-    posts = [...posts, response.items];
+    response.items.forEach((item) => (posts = [...posts, item]));
 
     while (response.nextPageToken) {
       response = await (
@@ -21,7 +21,7 @@
           { mode: "cors" },
         )
       ).json();
-      posts = [...posts, response.items];
+      response.items.forEach((item) => (posts = [...posts, item]));
     }
 
     isLoading = false;
