@@ -81,6 +81,7 @@
 
         <h3 class="cv-sub-heading">Cloud:</h3>
         <ul class="cv-ul">
+            <li>AWS Certified Solutions Architect (Professional)</li>
             <li>AWS Certified Solutions Architect (Associate)</li>
         </ul>
         <br />
