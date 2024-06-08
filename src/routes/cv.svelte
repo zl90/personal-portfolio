@@ -40,6 +40,9 @@
             <li>
                 <a href="https://devika.com/blog/Bedrock-AI-GoTo" target="_blank" rel="noreferrer">Integrated AWS Bedrock AI</a> with <a href="https://www.thegoto.app/" target="_blank" rel="noreferrer">Goto</a>'s existing UI, dramatically improving user experience for business users and end users.
             </li>
+            <li>
+                Revived <a href="https://www.myhop.io/" target="_blank" rel="noreferrer">HOP's</a> mobile app by updating dependencies, conducting end-to-end testing and updating legacy Android permission API calls, ensuring compliance with Google Play Store's requirement of targeting SDK version >33. Successfully restored app availability on the Play Store.
+            </li>
         </ul>
         <br />
         <h3 class="cv-sub-heading">
